@@ -1,0 +1,14 @@
+body {
+  
+    background-image: url("https://img.freepik.com/vector-premium/patron-fisuras-elementos-graficos-sobre-tema-escolar_273893-1392.jpg?w=2000");
+  }
+  
+.calcu{
+margin-top: 11%;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+.card{
+background-color: rgb(212, 242, 242);
+}
